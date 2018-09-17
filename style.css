@@ -68,7 +68,7 @@ input[type="button"],
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
-    background-color: #eee;
+    background-color: rgb(106, 212, 245);
     border: 0;
     border-bottom: 1px solid #bbb;
 }
@@ -76,13 +76,13 @@ input[type="button"],
 input[type="button"]:hover,
 #equal:hover {
     cursor: pointer;
-    background-color: #ddd;
+    background-color: rgb(63, 187, 245);
 }
 
 input[type="button"]:active,
 #equal:active {
     cursor: pointer;
-    background-color: #bbb;
+    background-color: rgb(57, 179, 235);
 }
 
 input:focus {
